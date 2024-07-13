@@ -21,7 +21,7 @@ export const Footer = () => {
               <a href="https://github.com/utkarsh215"><img src={navIcon2} alt="Icon" /></a>
               <a href="https://drive.google.com/file/d/1cphZ8uqiiY5dtynIPfRAovrh7ZGrOkiU/view?usp=sharing"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
+            <p>Copyright 2024. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>
